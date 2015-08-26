@@ -1,0 +1,9 @@
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\bin\Debug\lockpick.exe.config
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\obj\Debug\lockpick.csprojResolveAssemblyReference.cache
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\obj\Debug\lockpick.frmLockpicka.resources
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\obj\Debug\lockpick.Properties.Resources.resources
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\obj\Debug\lockpick.csproj.GenerateResource.Cache
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\bin\Debug\lockpick.exe
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\bin\Debug\lockpick.pdb
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\obj\Debug\lockpick.exe
+c:\users\admin77\documents\visual studio 2013\Projects\lockpick\lockpick\obj\Debug\lockpick.pdb

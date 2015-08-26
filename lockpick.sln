@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lockpick", "lockpick\lockpick.csproj", "{B05C11F0-8BF1-4399-B0F3-A3EAD6D99004}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "imagery", "imagery", "{77AE2C92-6372-4393-8963-C34806E0BDD3}"
+	ProjectSection(SolutionItems) = preProject
+		lockpick\keypass.ico = lockpick\keypass.ico
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A381555-4007-44D2-BBE4-28E597F49E3F}"
+	ProjectSection(SolutionItems) = preProject
+		lockpick\1440577039_keepassx.png = lockpick\1440577039_keepassx.png
+		lockpick\keypass.ico = lockpick\keypass.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05C11F0-8BF1-4399-B0F3-A3EAD6D99004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05C11F0-8BF1-4399-B0F3-A3EAD6D99004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05C11F0-8BF1-4399-B0F3-A3EAD6D99004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05C11F0-8BF1-4399-B0F3-A3EAD6D99004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
